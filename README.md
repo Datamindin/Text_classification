@@ -8,3 +8,6 @@ Prepare your dataset: Ensure you have a dataset in the appropriate format for te
 Preprocess the text data: Use preprocessing techniques such as tokenization, stop-word removal, and text normalization.
 
 Train the model: Select the appropriate NLP model (e.g., TF-IDF, Word Embeddings) and train it on your dataset.
+
+Evaluate the model's performance using relevant evaluation metrics such as accuracy, precision, recall, and F1-score. 
+Use test data or cross-validation to assess the model's generalization.
